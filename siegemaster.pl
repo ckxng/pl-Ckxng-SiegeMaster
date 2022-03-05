@@ -233,7 +233,7 @@ main unless caller;
 
 =head1 AUTHOR
 
-Cameron King <cameronking.me>
+Cameron King <http://cameronking.me>
 
 =head1 COPYRIGHT
 
